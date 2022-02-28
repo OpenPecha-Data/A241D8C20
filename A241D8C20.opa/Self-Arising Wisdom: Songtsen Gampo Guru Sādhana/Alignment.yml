@@ -1,0 +1,31 @@
+segment_sources:
+  PF36B95FD:
+    type: origin_type
+    relation: translation
+    language: en
+  P71526C55:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2691eb0eeee74a1cbe7ef289e9dbbe98:
+    PF36B95FD: 60090f50239e416490c1e3c9f691596b
+    P71526C55: 2dd7d0e86e8342bc8e821fd23b645cb5
+  b35ab394e1024ec7afd156a159c26483:
+    PF36B95FD: d1ee61d00d3543d98528aa70bb11da4e
+    P71526C55: abd6ceb51c004341aea2df0d44f78636
+  c1ced697e37b4b8d8352cd9c6ce38936:
+    PF36B95FD: ed6fbf0377d24704bfe8c6ce1623b5c3
+    P71526C55: a6b6fc0e3cdd43bda0dcc3d28da00541
+  0cfb7932310f40c18754ee063b35fb07:
+    PF36B95FD: 8bb552f4cb074253b6be898f26ea16f0
+    P71526C55: 8e7d266902b442d98a999837fc94813d
+  d2964f7e6be0408dbcc5e479784546ae:
+    PF36B95FD: 4ee9043a9c0a4ee4810f72fbc9c4f145
+    P71526C55: 0c22971c2df64779a71de6b1c3269a9f
+  fc37b4bf73d54708a3f1033a9cc27571:
+    PF36B95FD: 8753c8dcd547427697afb63acaf4c5ab
+    P71526C55: 16419fadc4bc4854ac85a2e111dd90a5
+  74f30edf8f434578be46a2afd930cc16:
+    PF36B95FD: d85905e69f674ff8a8975de3a08d657a
+    P71526C55: 21ebd4ee0f6b4d23b25a10863c364bb0
